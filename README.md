@@ -98,3 +98,5 @@ span{
 	-moz-transform: rotateY(-360deg);
     }
 }
+
+//这个是没有时间限制的，如果需要可以自己添加事件
